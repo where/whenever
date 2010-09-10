@@ -1,0 +1,3 @@
+[submodule "lib/whenever/vendor/gems/chronic"]
+	path = lib/whenever/vendor/gems/chronic
+	url = git://github.com/AaronH/chronic.git
